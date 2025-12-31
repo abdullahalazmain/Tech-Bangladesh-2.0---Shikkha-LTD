@@ -1,14 +1,7 @@
 # Mobile Typing Pro: Beyond the Basics
+**Course Code:** C-244 | **Lecture:** 01 | **Date:** December 31, 2025
 
 স্বাগতম! এটি **ট্যাগ বাংলাদেশ ২.০ ~ Shikkha LTD** কোর্সের একটি বিশেষ মাইলস্টোন। এই কোর্সের মূল লক্ষ্য হলো সাধারণ টাইপিং দক্ষতা থেকে আপনাকে একজন **Mobile Typing Expert**-এ রূপান্তর করা।
-
----
-
-## লেকচার ইনফরমেশন
-- **কোর্স কোড:** C-244
-- **লেকচার নম্বর:** 01
-- **লেকচারের বিষয়:** Course Introduction: Beyond the Basics of Mobile Typing
-- **তারিখ:** ৩১ ডিসেম্বর, ২০২৫
 
 ---
 
