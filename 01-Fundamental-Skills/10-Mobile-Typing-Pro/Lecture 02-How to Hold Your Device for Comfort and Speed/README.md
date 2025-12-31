@@ -1,6 +1,4 @@
-# Mobile Typing Pro: Lecture 02
-
-## Engineering Workspace Setup & Learning Strategy
+# Engineering Workspace Setup & Learning Strategy
 **Course Code: C-245 | Lecture: 02 | Date: December 31, 2025**
 
 ---
