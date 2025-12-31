@@ -1,7 +1,7 @@
 # Mobile Typing Pro: Beyond the Basics
 **Course Code:** C-244 | **Lecture:** 01 | **Date:** December 31, 2025
 
-স্বাগতম! এটি ** Tech Bangladesh 2.0 ~ Shikkha LTD** কোর্সের একটি বিশেষ মাইলস্টোন। এই কোর্সের মূল লক্ষ্য হলো সাধারণ টাইপিং দক্ষতা থেকে আপনাকে একজন **Mobile Typing Expert**-এ রূপান্তর করা।
+স্বাগতম! এটি ** Tech Bangladesh 2.0 ~ Shikkha LTD ** কোর্সের একটি বিশেষ মাইলস্টোন। এই কোর্সের মূল লক্ষ্য হলো সাধারণ টাইপিং দক্ষতা থেকে আপনাকে একজন **Mobile Typing Expert**-এ রূপান্তর করা।
 
 ---
 
