@@ -1,7 +1,7 @@
-# Class 245: Engineering Foundation - Class 2
-> **Topic:** HTML Structure, Headings & Elements | **Date:** December 27, 2025
+# Engineering Foundation - HTML Structure, Headings & Elements
+ **Lecture:** 02  | **Date:** December 27, 2025
 
-## যা যা শেখানো হয়েছে (Learning Topics)
+## যা যা শেখানো হয়েছে
 আজকের ক্লাসে HTML-এর মৌলিক কাঠামো এবং বিভিন্ন ট্যাগ সম্পর্কে বিস্তারিত আলোচনা করা হয়েছে:
 - **HTML Document Structure:** `<!DOCTYPE html>`, `<html>`, `<head>`, এবং `<body>` এর কাজ 。
 - **Meta Information:** কিভাবে `<head>` সেকশন ব্যাকগ্রাউন্ডে কাজ করে এবং `<title>` ব্রাউজার ট্যাবে নাম দেখায় 。
@@ -11,7 +11,8 @@
 
 ## প্রজেক্ট ফাইলসমূহ
 - [My 2nd Class.html](My%202nd%20Class.html): ক্লাসে শেখানো কোডের মূল ফাইল 。
+- [Output of My 2nd Class HTML file.png](02-Engineering-Foundation-Track/01-Zero-to-Junior-Engineer/Lecture%2002-Foundation-Class-2/Output%20of%20My%202nd%20Class%20HTML%20file.png): HTML ফাইলটির আউটপুট 。 
 - [Engineering Foundation - Class 2.pdf](ক্লাস%20245%20~Engineering%20Foundation%20-%20Class%202.pdf): কোড স্ট্রাকচারের পিডিএফ ফরম্যাট 。
 
-## মূল ধারণা (Key Concept)
+## মূল ধারণা
 একটি এলিমেন্ট সাধারণত শুরু এবং শেষ ট্যাগ দিয়ে গঠিত হলেও, `<br/>` এর মতো কিছু ট্যাগ আছে যেগুলোর কোনো ক্লোজিং ট্যাগ থাকে না [cite: 34, 35]। [cite_start]এছাড়া `<span>` ব্যবহার করে কিভাবে অন্য এলিমেন্টের ভেতরে নেস্টেড এলিমেন্ট তৈরি করা যায় তা শিখেছি 。
