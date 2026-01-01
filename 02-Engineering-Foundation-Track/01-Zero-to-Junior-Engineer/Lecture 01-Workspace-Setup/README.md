@@ -1,6 +1,6 @@
 # **Engineering Workspace Setup & Learning Strategy**
 
-**Course Code:** C-240 | **Lecture:** 01 | **Date:** December 22, 2025
+**Lecture:** 01 | **Date:** December 22, 2025
 
 **Learning Strategy (শেখার কৌশল)**  
 সফলভাবে কোর্সটি সম্পন্ন করার জন্য নিচের কৌশলগুলো অনুসরণ করতে হবে:
