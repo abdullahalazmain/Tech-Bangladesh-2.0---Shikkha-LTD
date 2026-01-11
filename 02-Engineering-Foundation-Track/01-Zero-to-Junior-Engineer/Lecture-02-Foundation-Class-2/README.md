@@ -10,9 +10,9 @@
 - **Empty Tags:** `<br/>` এর মতো ট্যাগগুলো কেন ক্লোজিং ট্যাগ ছাড়াই ব্যবহৃত হয় 。
 
 ## প্রজেক্ট ফাইলসমূহ
-- [My 2nd Class.html](My%202nd%20Class.html): ক্লাসে শেখানো কোডের মূল ফাইল 。
-- [Output of My 2nd Class HTML file.png](02-Engineering-Foundation-Track/01-Zero-to-Junior-Engineer/Lecture%2002-Foundation-Class-2/Output%20of%20My%202nd%20Class%20HTML%20file.png): HTML ফাইলটির আউটপুট 。 
-- [Engineering Foundation - Class 2.pdf](ক্লাস%20245%20~Engineering%20Foundation%20-%20Class%202.pdf): কোড স্ট্রাকচারের পিডিএফ ফরম্যাট 。
+- [My 2nd Class.html](My-2nd-Class.html): ক্লাসে শেখানো কোডের মূল ফাইল 。
+- [Output of My 2nd Class HTML file.png](Output-of-My-2nd-Class-HTML-file.png): HTML ফাইলটির আউটপুট 。 
+- [Engineering Foundation - Class 2.pdf](Lecture-02-Engineering-Foundation-Class-2.pdf): কোড স্ট্রাকচারের পিডিএফ ফরম্যাট 。
 
 ## মূল ধারণা
-একটি এলিমেন্ট সাধারণত শুরু এবং শেষ ট্যাগ দিয়ে গঠিত হলেও, `<br/>` এর মতো কিছু ট্যাগ আছে যেগুলোর কোনো ক্লোজিং ট্যাগ থাকে না [cite: 34, 35]। [cite_start]এছাড়া `<span>` ব্যবহার করে কিভাবে অন্য এলিমেন্টের ভেতরে নেস্টেড এলিমেন্ট তৈরি করা যায় তা শিখেছি 。
+একটি এলিমেন্ট সাধারণত শুরু এবং শেষ ট্যাগ দিয়ে গঠিত হলেও, `<br/>` এর মতো কিছু ট্যাগ আছে যেগুলোর কোনো ক্লোজিং ট্যাগ থাকে না । এছাড়া `<span>` ব্যবহার করে কিভাবে অন্য এলিমেন্টের ভেতরে নেস্টেড এলিমেন্ট তৈরি করা যায় তা শিখেছি 。
