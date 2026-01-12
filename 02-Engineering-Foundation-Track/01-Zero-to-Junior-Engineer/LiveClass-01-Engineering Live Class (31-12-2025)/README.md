@@ -1,6 +1,6 @@
 # HTML Elements Deep Dive: Images and Lists
 ### Zero to Junior Engineer
-Lecture: 01 | Date: 31 December 2025
+Live Class: 01 | Date: 31 December 2025
 
 ## Learning Topics
 * **image tag (<img>):** ওয়েবসাইটের ইমেজ ম্যানেজমেন্ট।
